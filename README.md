@@ -9,8 +9,12 @@ https://github.com/NataliMizrahi
 
 💬 Ask me about Full-Stack development, UX/UI principles, or anything tech-related!
 
-Connect with me:  
-https://www.linkedin.com/in/natali-mizrahi-43564020a/
+
+
+### **Connect with me**
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/natali-mizrahi-43564020a/)
+
+
 
 ### **Languages and Tools**
 
@@ -19,10 +23,4 @@ https://www.linkedin.com/in/natali-mizrahi-43564020a/
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>](https://nodejs.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>](https://www.typescriptlang.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>](https://www.python.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>](https://www.java.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>](https://isocpp.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>](https://www.postgresql.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>](https://www.mongodb.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>](https://git-scm.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>](https://ww)
