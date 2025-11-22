@@ -1,20 +1,22 @@
 # **👋 Hello There, I'm [Natali Mizrahi](https://www.linkedin.com/in/natali-mizrahi-43564020a/)**
 
-✅ Recently completed several full-stack projects, including a real-time trivia app, a virtual pet motivation app, and a skill-exchange platform.
+🚀 **Full Stack Developer** with a B.Sc. in Computer Science and hands-on experience in web development.
 
 👩‍💻 All of my projects are available here on GitHub:  
-https://github.com/NataliMizrahi
+**https://github.com/NataliMizrahi**
 
 📝 I enjoy learning new technologies and improving my development skills every day.
 
 💬 Ask me about Full-Stack development, UX/UI principles, or anything tech-related!
 
-
+---
 
 ### **Connect with me**
+<a href="mailto:natalimizrahi22@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/></a>
+&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/natali-mizrahi-43564020a/)
 
-
+---
 
 ### **Languages and Tools**
 
