@@ -12,17 +12,17 @@ https://github.com/NataliMizrahi
 Connect with me:  
 https://www.linkedin.com/in/natali-mizrahi-43564020a/
 
-### Languages and Tools:
-[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) •  
-[React](https://react.dev/) •  
-[Node.js](https://nodejs.org/) •  
-[TypeScript](https://www.typescriptlang.org/) •  
-[Python](https://www.python.org/) •  
-[Java](https://www.java.com/) •  
-[C++](https://isocpp.org/) •  
-[SQL](https://www.w3schools.com/sql/) •  
-[PostgreSQL](https://www.postgresql.org/) •  
-[MongoDB](https://www.mongodb.com/) •  
-[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) •  
-[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) •  
-[Git](https://git-scm.com/)
+### **Languages and Tools**
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>](https://react.dev/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>](https://nodejs.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>](https://www.typescriptlang.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>](https://www.python.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>](https://www.java.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>](https://isocpp.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>](https://www.postgresql.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>](https://www.mongodb.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>](https://git-scm.com/)
