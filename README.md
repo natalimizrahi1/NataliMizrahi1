@@ -3,7 +3,7 @@
 🚀 **Full Stack Developer** with a B.Sc. in Computer Science and hands-on experience in web development.
 
 👩‍💻 All of my projects are available here on GitHub:  
-**https://github.com/NataliMizrahi**
+**https://github.com/natalimizrahi1?tab=repositories**
 
 📝 I enjoy learning new technologies and improving my development skills every day.
 
